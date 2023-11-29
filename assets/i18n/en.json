@@ -1,0 +1,80 @@
+{   
+  "WELCOME": "Welcome to our market!", 
+  "LOGIN": "Sign In", 
+  "LOGOUT": "Logout", 
+  "REGISTER": "Register",
+  "ACCOUNT": "Account", 
+  "COMPARE": "Compare",
+  "WISHLIST": "Wishlist", 
+  "NAV": {  
+    "HOME": "Home",  
+    "PAGES": "Pages", 
+    "SHOP": "Shop",
+    "ALL_PRODUCTS": "All products",
+    "PRODUCT_DETAIL": "Product detail",
+    "CART": "Cart",
+    "CHECKOUT": "Checkout",
+    "FAQS": "Faqs",
+    "PRICING": "Pricing",
+    "TERMS_CONDITIONS": "Terms & Conditions",
+    "LANDING": "Landing", 
+    "404_PAGE": "404 Page",
+    "OTHERS": "Others",
+    "EXTERNAL_LINK": "External Link",
+    "MENU_ITEM": "Menu Item",
+    "CONTACT": "Contact",
+    "ABOUT_US": "About Us",
+    "ADMIN": "Admin Panel"
+  },
+  "ADMIN_NAV": {  
+    "DASHBOARD": "Dashboard",  
+    "FILE": "Files", 
+    "FILE_CREATE": "Create Files", 
+    "FILE_UPLOAD": "Upload Files",
+    "ALL_FILES": "File List", 
+    "COURSE": "Courses",
+    "ADD_COURSE": "Add Courses",
+    "COURSES": "Course List",
+    "COURSE_TOPIC_CREATE":"Course Topic create",
+    "COURSE_TOPIC": "Course Topic List",
+    "TOPIC_VIDEO_CREATE":"Create Topic Video",
+    "TOPIC_VIDEO": "Topic Video List",
+    "USERS": "Users", 
+    "CUSTOMERS": "Customers", 
+    "COUPONS": "Coupons",
+    "APP_CONFIG":"App Configuration",
+    "APP_ONBOARD":"Onboard Setting",
+    "APP_SLIDER":"Slider Settings",
+    "ONBOARD_SETTING":"Onboard Settings",
+    "PACKAGE":"Packages",
+    "COURSE_PACKAGE":"Course packages",
+    "ADVISORY_PACKAGE":"Advisory packages",
+    "APP_PACKAGE":"App packages",
+    "APP_SETTING":"App Settings"
+  },
+  "BTN": {
+    "ADD": "Add",
+    "SAVE": "Save",
+    "SUBMIT": "Submit",
+    "CANCEL": "Cancel",
+    "UPLOAD": "Upload",
+    "REMOVE": "Remove",
+    "YES": "Yes",
+    "NO": "No",
+    "OK": "OK"
+  },
+  "MESSAGE": {
+    "SURE_DELETE": "Are you sure you want to delete?",
+    "FILE_SIZE": "The file size cannot exceed {{param}} kb."
+  },
+  "FIELD": { 
+    "NAME": "Name" 
+  }, 
+  "PAGINATION":{
+    "ITEMS_PER_PAGE": "Items per page:",
+    "NEXT_PAGE": "Next page",
+    "PREV_PAGE": "Previous page",
+    "FIRST_PAGE": "First page",
+    "LAST_PAGE": "Last page"
+  }
+}
